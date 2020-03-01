@@ -10,4 +10,4 @@
 两个分支上同时存在一个bug，在一个分支上将bug修复后进行提交。另一个分支利用`git cherry-pick [commitid]`则可同步修改内容
 * git stash 可以在什么场景下使用  
 * 多人协作模式
-***
+* dsadas

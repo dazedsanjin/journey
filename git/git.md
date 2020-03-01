@@ -9,4 +9,4 @@
 * git cherry-pick 可以在什么场景下使用  
 线上存在bug，在一个分支上将bug修复后合并进行提交。另一个新开发功能分支利用`git cherry-pick [commitid]`则可同步修改bug内容
 * git stash 存储的是哪一部分的内容  
-存储的是工作区/暂存区的内容，即`git commit`前的内容
+存储的是工作区/暂存区的内容，即`git commit`前的内容ss

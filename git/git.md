@@ -11,4 +11,7 @@
 * git stash 可以在什么场景下使用  
 * 多人协作模式
 * dsadas
+<<<<<<< HEAD
 * sa
+=======
+>>>>>>> 6f0526e8b2dadc0aa47c1c9bdb531a3e54285f15
